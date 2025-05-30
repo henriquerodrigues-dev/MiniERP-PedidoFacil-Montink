@@ -30,23 +30,6 @@ Mini sistema ERP para gerenciamento de produtos, cupons, estoque e pedidos com f
 - Envio de e-mail ao finalizar o pedido
 - Webhook de atualização/cancelamento de pedidos
 
----
-
-## 🖼️ Capturas de Tela do Projeto
-
-### Tela de cadastro de produtos
-![Cadastro de Produtos](assets/screens/cadastro_produtos.png)
-
-### Controle de estoque por variação
-![Controle de Estoque](assets/screens/controle_estoque.png)
-
-### Carrinho de compras
-![Carrinho de Compras](assets/screens/carrinho_compras.png)
-
-### Tela de aplicação de cupom e cálculo de frete
-![Cupom e Frete](assets/screens/cupom_frete.png)
-
----
 
 ## 🧱 Banco de Dados (MySQL)
 
@@ -120,6 +103,36 @@ http://localhost/MiniERP-PedidoFacil-Montink/index.php/products
 - Validações e feedbacks amigáveis
 
 - Ideal para simulação de fluxo básico de e-commerce
+
+---
+
+## 🖼️ Capturas de Tela do Projeto
+
+### Página Inicial
+![Página Inicial](assets/screenshots/pagina_inicial.png)
+
+### Cadastro de Produtos (Visão Geral)
+![Cadastro de Produtos](assets/screenshots/cadastro_de_produtos.png)
+
+### Edição de Produto (Parte 1)
+![Edição de Produto Parte 1](assets/screenshots/modo_edicao_1.png)
+
+### Edição de Produto (Parte 2)
+![Edição de Produto Parte 2](assets/screenshots/modo_edicao_2.png)
+
+### Página de Cupons (Visão Geral)
+![Página de Cupons](assets/screenshots/pagina_cupons.png)
+
+### Edição e Criação de Cupons (Visão Geral)
+![Edição e Criação de Cupons](assets/screenshots/edicao_e_criacao_cupons.png)
+
+### Carrinho de Compras
+![Carrinho de Compras](assets/screenshots/carrinho_de_compras.png)
+
+### Carrinho de Compras com Cupom e Frete
+![Carrinho com Cupom e Frete](assets/screenshots/carrinho_de_compras_cupom_e_frete.png)
+
+---
 
 ## 🚀 Entrega
 O projeto está hospedado neste repositório público. O código SQL para criação do banco está incluso acima neste README.md.
