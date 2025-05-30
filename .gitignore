@@ -1,0 +1,48 @@
+# Sistema e cache
+.DS_Store
+Thumbs.db
+
+application/cache/*
+!application/cache/index.html
+
+application/logs/*
+!application/logs/index.html
+
+# Configurações locais (cuidado!)
+# application/config/database.php
+# application/config/config.php
+
+# Composer
+composer.lock
+/vendor/
+
+# User guide build files
+user_guide_src/build/*
+user_guide_src/cilexer/build/*
+user_guide_src/cilexer/dist/*
+user_guide_src/cilexer/pycilexer.egg-info/*
+
+# IDE Files
+/nbproject/
+/.idea/
+/.vscode/
+*.code-workspace
+
+# Sublime Text cache files
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
+
+# Vim, Emacs, etc temp files
+*~
+*.swp
+
+# Tests (se for o caso)
+/tests/tests/
+/tests/results/
+
+# Uploads ou arquivos temporários, caso existam
+uploads/
+tmp/
