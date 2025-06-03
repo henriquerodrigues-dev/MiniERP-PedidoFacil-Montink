@@ -138,5 +138,9 @@ http://localhost/MiniERP-PedidoFacil-Montink/index.php/products
 O projeto está hospedado neste repositório público. O código SQL para criação do banco está incluso acima neste README.md.
 
 
-## Autor
-👤 [Henrique Rodrigues - LinkedIn](https://www.linkedin.com/in/henriquerodrigues-dev/)  
+## 🙋‍♂️ Autor
+
+Feito por **Henrique Rodrigues**
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henriquerodrigues-dev/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/henriquerodrigues-dev)
